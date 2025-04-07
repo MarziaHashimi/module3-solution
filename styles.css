@@ -1,0 +1,28 @@
+/* Custom styles */
+.tall-section {
+    height: 1000px;
+    background-color: #c3c2c2;
+    padding: 30px;
+    font-weight: bold;
+    line-height: 1.9em;
+  }
+  
+  #mobile-menu {
+    background-color: #e0e0e0; /* Distinguishable background */
+border: 3px solid #333;
+font-weight: bold;
+}
+  
+  .navbar-nav > li > a {
+    color: #333;
+  }
+  .container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+.navbar-brand{
+    padding-left: 40px;
+}
+.text-center{
+    padding-bottom: 20px;
+}
